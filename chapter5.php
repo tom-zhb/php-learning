@@ -1,6 +1,7 @@
 <?php
 /**
- *  bool define ( string $name , mixed $value [, bool $case_insensitive = false ] )
+ * chapter5: 常量
+ * bool define ( string $name , mixed $value [, bool $case_insensitive = false ] )
  * 该函数有三个参数:
  * name：必选参数，常量名称，即标志符。
  * value：必选参数，常量的值。

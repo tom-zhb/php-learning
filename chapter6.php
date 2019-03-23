@@ -1,6 +1,6 @@
 <?php
     /**
-     * 字符串
+     * chapter6: 字符串
      */
     $txt = "hello world";
     echo  $txt."\r\n";
